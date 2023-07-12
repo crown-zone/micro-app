@@ -1,0 +1,15 @@
+# IDE
+.idea
+.vscode
+
+# build
+/build/
+/dist/
+/base/
+*.zip
+
+# dependency
+/node_modules/
+
+# log
+*.log
